@@ -43,6 +43,8 @@
  dir-reflect
  angles->dir
  dir->angles
+ angles->dir-yp
+ dir->angles-yp
  pos+
  pos-
  pos-between
